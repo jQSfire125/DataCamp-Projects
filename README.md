@@ -10,3 +10,4 @@ My notebooks of [Datacamp](https://www.datacamp.com/profile/JQSfire125) projects
 | Project | Description |
 | --- | --- |
 | `TV, Halftime Shows, and the Big Game` | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. |
+| `The Android App Market on Google Play` | Load, clean, and visualize scraped Google Play Store data to understand the Android app market. |
