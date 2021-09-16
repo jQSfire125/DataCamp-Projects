@@ -18,3 +18,5 @@ My Jupyter Notebooks of [DataCamp](https://www.datacamp.com/profile/JQSfire125) 
 | **Exploring the Bitcoin Cryptocurrency Market** | You will explore the market capitalization of Bitcoin and other cryptocurrencies. |
 | **Recreating John Snow's Ghost Map** | Recreate John Snow's famous map of the 1854 cholera outbreak in London. |
 | **Exploring the History of Lego** | Use a variety of data manipulation techniques to explore different aspects of Lego's history! |
+| **Which Debts Are Worth the Bank's Effort?** | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. |
+
