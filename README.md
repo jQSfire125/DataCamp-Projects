@@ -1,7 +1,7 @@
 # DataCamp Projects
 
 <p align="center"> 
-<img src="https://cdn.datacamp.com/main-app/assets/brand/logos/DataCamp_Horizontal_RGB-d196011f63ebda76dc5c9772425cf9541b8639af842d5e5476ef10f2460ed1e4.png" width="250">
+<img src="https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png" width="300">
 </p>
 
 My Jupyter Notebooks of [DataCamp](https://www.datacamp.com/profile/JQSfire125) projects:
@@ -21,4 +21,5 @@ My Jupyter Notebooks of [DataCamp](https://www.datacamp.com/profile/JQSfire125) 
 | **Which Debts Are Worth the Bank's Effort?** | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. |
 | **The Hottest Topics in Machine Learning** | Use Natural Language Processing on NIPS papers to uncover the trendiest topics in machine learning research. |
 | **A New Era of Data Analysis in Baseball** | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
+| **Do Left-handed People Really Die Young?** | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. |
 
