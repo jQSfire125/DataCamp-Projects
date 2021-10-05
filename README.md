@@ -22,4 +22,5 @@ My Jupyter Notebooks of [DataCamp](https://www.datacamp.com/profile/JQSfire125) 
 | **The Hottest Topics in Machine Learning** | Use Natural Language Processing on NIPS papers to uncover the trendiest topics in machine learning research. |
 | **A New Era of Data Analysis in Baseball** | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
 | **Do Left-handed People Really Die Young?** | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. |
+| **Naïve Bees: Image Loading and Processing** | Load, transform, and understand images of honey bees and bumble bees in Python. |
 
